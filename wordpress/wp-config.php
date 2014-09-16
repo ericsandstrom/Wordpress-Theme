@@ -25,7 +25,7 @@ define('DB_USER', 'a2656519_wp');
 define('DB_PASSWORD', '1q2w3eEE');
 
 /** MySQL hostname */
-define('DB_HOST', 'server28.000webhost.com');
+define('DB_HOST', 'mysql7.000webhost.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
