@@ -25,7 +25,7 @@ define('DB_USER', 'sql352608');
 define('DB_PASSWORD', 'yR6%rB1%');
 
 /** MySQL hostname */
-define('DB_HOST', 'sql3.freesqldatabase.com');
+define('DB_HOST', 'sql3.freesqldatabase.com:3306');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
@@ -33,7 +33,6 @@ define('DB_CHARSET', 'utf8');
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
 
-define('WP_ALLOW_REPAIR', true);
 
 /**#@+
  * Authentication Unique Keys and Salts.
