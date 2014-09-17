@@ -1,34 +1,3 @@
-/*
-Theme Name: Contango
-Theme URI: http://designorbital.com/contango/
-Author: DesignOrbital.com
-Author URI: http://designorbital.com/
-Description: Contango is an elegant, simple and clean design, emphasis on content. This theme is powered with custom menu, custom background, custom header, sidebar widget, featured image, theme options, nice typography and built-in pagination features. Contango Theme is suitable for any business or personal website. The Theme can work for various different niches. Contango is translation-ready and so much more.
-Version: 1.2.7.5
-Tags: gray, green, white, light, one-column, two-columns, right-sidebar, fixed-layout, custom-background, custom-header, custom-menu, featured-images, flexible-header, full-width-template, microformats, post-formats, sticky-post, theme-options, threaded-comments, translation-ready
-License: GNU General Public License, version 3 (GPLv3)
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
-*/
-
-/*  Contango Table of Contents
- *
- * Note: See the "Help" tab in the "Contango Options" admin page for license, changelog and other informations.
- *
- * =Reset, =Skeleton, =Header, =Content/Sidebar, =Footer
- * =Paragraph, =Headings, =Text Elements, =Blockquote, =Links
- * =List, =Table, =Form, =Search Form Widget, =Images, =General Classes, =Sidebar(s), =Widget(s)
- * =Type Post, =Entry Content, =Entry Meta, =Loop Meta
- * =Author, =Paging, =Comments
- * =Menu Primary
- *
------------------------- */
-
-/**
-|------------------------
-| =Reset default browser CSS. http://meyerweb.com/eric/tools/css/reset/ v2.0 | 20110126 License: none (public domain)
-|------------------------
-*/
-
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
